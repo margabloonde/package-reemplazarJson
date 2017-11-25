@@ -1,0 +1,21 @@
+{
+    "name": "marga/reemplazar",
+    "description": "Paquete para buscar y reemplazar etiquetas de idiomas",
+    "type": "laravel",
+    "authors": [
+        {
+            "name": "margabloonde",
+            "email": "margabloonde@gmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-4": {
+            "Marga\\Reemplazar\\": "src/"
+        }
+    },
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^6.4"
+    }
+}
+
